@@ -1,5 +1,6 @@
 # GLM-AGV
 # Act as an agent for multiple AGVs in flexible workshops and schedule AGVs through large models (GLM)
+https://github.com/7lldevelopers/FJSP-AGV
 Implement scheduling through large models, minimize problems, and achieve multi-AGV scheduling results. Accelerate scheduling results through fine-tuning of large models.
 The data stored each time must be managed centrally.
 Flexible production: A flexible job shop has multiple workpieces N, and each workpiece has its own set of processes. The processing procedures cannot be disrupted, and each procedure can only be processed on one machine. Processing cannot be paused. There may be multiple machines that can process a workpiece, and the processing times are different.
