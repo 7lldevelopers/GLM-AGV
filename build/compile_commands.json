@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/qill/C++/AGVproject/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o CMakeFiles/myagv.dir/src/main.cpp.o -c /home/qill/C++/AGVproject/src/main.cpp",
+  "file": "/home/qill/C++/AGVproject/src/main.cpp"
+},
+{
+  "directory": "/home/qill/C++/AGVproject/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o CMakeFiles/myagv.dir/src/agv.cpp.o -c /home/qill/C++/AGVproject/src/agv.cpp",
+  "file": "/home/qill/C++/AGVproject/src/agv.cpp"
+},
+{
+  "directory": "/home/qill/C++/AGVproject/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o CMakeFiles/myagv.dir/src/Jop.cpp.o -c /home/qill/C++/AGVproject/src/Jop.cpp",
+  "file": "/home/qill/C++/AGVproject/src/Jop.cpp"
+}
+]
