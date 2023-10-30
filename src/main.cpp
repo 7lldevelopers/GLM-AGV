@@ -244,7 +244,7 @@ int main(){
 
 
     //使用json文件 实现交互 
-   openai::start("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", "optional_organization"); 
+   openai::start("*******", "optional_organization"); 
   // export OPENAI_API_KEY='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'、
 //输出 api列表
    // Calling API method is easy with some chosen free function 
